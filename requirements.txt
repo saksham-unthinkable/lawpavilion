@@ -10,7 +10,6 @@ charset-normalizer==2.0.5
 clang==5.0
 click==8.0.1
 Cython==0.29.24
-dataclasses==0.8
 decorator==5.1.0
 deepspeech==0.9.3
 ez-setup==0.9
